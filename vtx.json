@@ -1,0 +1,7 @@
+{
+  "name": "VoteX",
+  "symbol": "VTX",
+  "description": "A decentralized voting system on Solana.",
+  "image": "https://github.com/Sadegh-Samie/vtx.git",
+  "decimals": 6
+}
