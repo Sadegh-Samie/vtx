@@ -1,7 +1,16 @@
 {
   "name": "VoteX",
   "symbol": "VTX",
-  "description": "A decentralized voting system on Solana.",
-  "image": "https://github.com/Sadegh-Samie/vtx.git",
-  "decimals": 6
+  "description": "A decentralized voting token on Solana.",
+  "image": "https://github.com/Sadegh-Samie/vtx/tree/main/VTX.png",
+  "attributes": [
+    {
+      "trait_type": "Decimals",
+      "value": 6
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "1000000000"
+    }
+  ]
 }
